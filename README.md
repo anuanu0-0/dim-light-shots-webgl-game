@@ -1,6 +1,6 @@
 # dim-light-shots-webgl-game
 
-## CONTROLS:
+## Controls:
   * Movements: Left Key, Right Key.
   * Jump/Shoot down: SpaceBar
 
