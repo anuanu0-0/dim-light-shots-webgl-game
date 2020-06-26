@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Dim Shoots",
+"productVersion": "0.1",
+"dataUrl": "Game-webGL.data.unityweb",
+"wasmCodeUrl": "Game-webGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game-webGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
